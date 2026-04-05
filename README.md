@@ -1,6 +1,6 @@
 # 🦈 Pull Shark Practice Repository
 This is my first pull request
-This repository is created to practice and demonstrate GitHub workflows such as:
+This repository is created to practice and demonstrate GitHub workflows such as:.
 
 * 🔀 Creating branches
 * 📥 Opening Pull Requests
