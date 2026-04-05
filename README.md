@@ -1,7 +1,7 @@
 # 🦈 Pull Shark Practice Repository
 This is my first pull request.
 This repository is created to practice and demonstrate GitHub workflows such as:.
-
+Fixing co-author format
 * 🔀 Creating branches
 * 📥 Opening Pull Requests
 * ✅ Merging changes
@@ -43,3 +43,6 @@ They help in:
 ---
 
 ⭐ If you're learning GitHub, feel free to explore and try similar workflows!
+Added co-authored commit
+
+Co-authored-by: thejavu <71762332052@cit.edu.in>
